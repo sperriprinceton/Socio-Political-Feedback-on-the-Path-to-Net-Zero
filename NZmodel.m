@@ -1,7 +1,7 @@
 clear all
 close all
 
-Tf=50000;
+Tf=200;
 
 
 NS=12.14; %(* ppm reduction in CO2 conc. due to natural sinks for the year 2018*)
